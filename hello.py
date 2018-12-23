@@ -7,3 +7,4 @@ print("githubㅇㅔ서 직접 수정함 대박 github에서도 편집이 되다�
 print("github에서 git pull 테스트A를 코드 추가요!")
 print("git commit --amend 테스트를 위한 내용 추가!")
 print("visual studio code 에서 추가")
+print("github에서 git pull 테스트를 코드 추가요!")
